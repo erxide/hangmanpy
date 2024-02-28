@@ -17,3 +17,12 @@ il faut avoir python et git d'installer
     python main.py
     ```
 
+
+- bonus : pour voir la solution
+    ```
+    git checkout soluce 
+    ```
+     pour revoir votre code 
+    ```
+    git checkout main
+    ```
